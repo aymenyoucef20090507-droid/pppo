@@ -1,2 +1,2 @@
 # pppo
-" Hello odin "
+Learning git hub step by step
